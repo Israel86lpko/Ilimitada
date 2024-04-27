@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="CDFHD.cl" tvg-name="TNT Sports HD (CL)" tvg-logo="https://img.hidra.app/deportes/tntsport.png" group-title="DEPORTES",TNT Sports HD (CL)
 http://hidra.live:80/J9okU7pEQV/w0mRirN25uBnO063/34675
 #EXTINF:-1 tvg-id="CDFHD.cl" tvg-name="TNT Sports Premium FHD (CL)" tvg-logo="https://img.hidra.app/deportes/tntsport.png" group-title="DEPORTES",TNT Sports Premium FHD (CL)
